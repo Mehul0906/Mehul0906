@@ -1,4 +1,4 @@
-![MasterHead](./github-header-image.png)
+![MasterHead](./github-header-image%20(2).png)
 <h1 align="center">Hi 👋, I'm Mehul Kurhe</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="450" src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif">
