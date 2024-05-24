@@ -1,5 +1,10 @@
-## Hi I am Mehul 👋
 
+<h1 align="center">Hi 👋, I'm Mehul</h1>
+<h3 align="center">A passionate FullStack developer from India</h3>
+<img align="right" alt="Coding" width="450" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <!--
 **Mehul0906/Mehul0906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
