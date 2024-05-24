@@ -4,7 +4,6 @@
 <img align="right" alt="Coding" width="450" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <!--
 **Mehul0906/Mehul0906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
