@@ -33,7 +33,7 @@ const CrazyFlutterDev = {
 
 <p align="center">
 	<a href="https://github.com/Mehul0906"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="[https://www.linkedin.com/in/nwaobidaniel/]([https://www.linkedin.com/in/mehul-kurhe-b55390296/](https://www.linkedin.com/in/mehul-kurhe-875915328/))"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="[https://www.linkedin.com/in/nwaobidaniel/]([https://www.linkedin.com/in/mehul-kurhe-b55390296/]"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 <!--   	<a href="https://discordapp.com/users/822812589624393749"><img src="https://img.icons8.com/bubbles/50/000000/discord.png" alt="Discord"/></a> -->
 </p>
 
