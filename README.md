@@ -34,7 +34,7 @@ const CrazyFlutterDev = {
 <p align="center">
 	<a href="https://github.com/Mehul0906"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="[https://www.linkedin.com/in/nwaobidaniel/](https://www.linkedin.com/in/aayush-patel-b55390296/)"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-  	<a href="https://discordapp.com/users/822812589624393749"><img src="https://img.icons8.com/bubbles/50/000000/discord.png" alt="Discord"/></a>
+<!--   	<a href="https://discordapp.com/users/822812589624393749"><img src="https://img.icons8.com/bubbles/50/000000/discord.png" alt="Discord"/></a> -->
 </p>
 
 </div>
@@ -44,10 +44,10 @@ const CrazyFlutterDev = {
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=aiscript,androidstudio,aws,c,cpp,cmake,github,figma,git" />
+<!--     <img src="https://skillicons.dev/icons?i=aiscript,androidstudio,aws,c,cpp,cmake,github,figma,git" />
     <img src="https://skillicons.dev/icons?i=discord,python,bots,flutter,gcp,firebase,kotlin,linkedin,java,visualstudio,twitter" /><br>
-    <img src="https://skillicons.dev/icons?i=cpp,dart,python,flutter,firebase,supabase,androidstudio,vscode,github,java,php,sqlite" />
-    <img src="https://skillicons.dev/icons?i=figma,postman,git,discord,bots,gcp,linkedin,instagram,twitter,idea,netlify,notion,pycharm" /><br>
+    <img src="https://skillicons.dev/icons?i=cpp,dart,python,flutter,firebase,supabase,androidstudio,vscode,github,java,php,sqlite" /> -->
+    <img src="https://skillicons.dev/icons?i=html,css,git,javascript,jquery,react,linkedin,instagram,node,express,mangodb," /><br>
 </div>
 
 <br/>
@@ -67,11 +67,11 @@ const CrazyFlutterDev = {
 <br>
 
 <div align=center>
-  <img width=390 height=162.84 src="https://github-readme-stats.vercel.app/api?username=Aayush014&theme=algolia&show_icons=true&rank_icon=github&border_radius=20&count_private=true" alt="streak stats"/>
-<img width=390 height=162.84 src="https://github-readme-streak-stats.herokuapp.com/?user=Aayush014&theme=algolia&border_radius=20" alt="readme stats"/>
+  <img width=390 height=162.84 src="https://github-readme-stats.vercel.app/api?username=Mehul0906&theme=algolia&show_icons=true&rank_icon=github&border_radius=20&count_private=true" alt="streak stats"/>
+<img width=390 height=162.84 src="https://github-readme-streak-stats.herokuapp.com/?user=Mehul0906&theme=algolia&border_radius=20" alt="readme stats"/>
   <br/>
 
-   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush014&layout=donut-vertical&show_icons=true&rank_icon=github&border_radius=20&title_color=00AEFF&text_color=c9cacc&icon_color=4AB197&bg_color=050F2C"/>
+   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehul0906&layout=donut-vertical&show_icons=true&rank_icon=github&border_radius=20&title_color=00AEFF&text_color=c9cacc&icon_color=4AB197&bg_color=050F2C"/>
 </div>
 
 <br/>
